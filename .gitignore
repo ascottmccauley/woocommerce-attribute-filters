@@ -1,0 +1,21 @@
+#OS files
+.DS_Store
+._*
+Thumbs.db
+.cache
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+
+#project files
+npm-debug.log
+node_modules/
+bower_components/
+assets/
